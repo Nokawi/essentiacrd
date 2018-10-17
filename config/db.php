@@ -1,10 +1,10 @@
 <?php 
    extract($_POST);
-   $servername = "localhost";
-   $username = "db_essen";
-   $password = "password";
-   $database = "db_essen";
-   $db = NULL;
+       $servername = "localhost";
+         $username = "u684894365_essen";
+         $password = "essentia123";
+         $database = "u684894365_essen";
+         $db = NULL;
 
 
    try{

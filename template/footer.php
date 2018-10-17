@@ -1,18 +1,11 @@
  </body>
- <footer class="site-footer style-2 footer navbar-fixed-bottom">
-<div class="copyright-footer">
-	<div class="container">
-		<div class="row">
-			<ul class="text-center">
-				<li id="text-7" class="widget-container widget_text">
-					<div class="textwidget">
-						<p style="color: #86754d !important;text-align: center;font-family: titillium-regular;font-size:16px;font-weight:400;font-style:normal;min-height:30px;" class="bg-13_faceboo">&nbsp;</p>
-					</div>
-				</li>
-			</ul>
-		</div>
-	</div>
-</div>
+      <br>
+     <br>
+     <br>
+     <br>
+     <br>
+ <footer class="site-footer footer navbar-bottom">
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-3">
